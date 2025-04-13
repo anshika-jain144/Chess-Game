@@ -1,5 +1,0 @@
-# Ignore node_modules
-node_modules/
-
-# Don't ignore public folder
-!public/
